@@ -5,8 +5,8 @@ layout: page
 # About Me
 
 <img src="/images/yongquanqu01.JPG" class="floatpic" width="300" height="300">
-My name is Jason Ansel.  I am currently working on PyTorch Compilers
-at Facebook.
+My name is Yongquan QU (Francis).  I am currently a Ph.D student in the Department of
+Earth and Environmental Engineering at Columbia University. My advisor is [Pierre Gentine]
 
 Before Facebook, I was at GoDaddy helping build a deep learning platform
 for predicting small business behavior and personalizing experiences across
@@ -24,6 +24,7 @@ explore search spaces of program implementations.  As an undergraduate, I did
 research with [Gene Cooperman] and helped create [DMTCP], a user-level
 distributed checkpoint/restart system.
 
+[Pierre Gentine]: https://gentinelab.eee.columbia.edu/people/pierre-gentine
 [GoDaddy Domain Appraisals]: https://www.godaddy.com/engineering/2019/07/26/domain-name-valuation/
 [acquisition]: http://allthingsd.com/20130819/godaddy-acquires-merchant-finder-startup-locu-for-70-million/
 [CSAIL]: http://www.csail.mit.edu/
