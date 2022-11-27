@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="/images/yongquanqu01.JPG" class="floatpic" width="200" height="300">
+<img src="/images/yongquanqu01.JPG" class="floatpic" width="300" height="300">
 My name is Jason Ansel.  I am currently working on PyTorch Compilers
 at Facebook.
 
