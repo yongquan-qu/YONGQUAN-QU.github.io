@@ -14,8 +14,8 @@ for the simulation of physical processes in atmospheric and climate dynamics. Cu
 to explore data-driven low-cloud parameterization, and data assimilation for climate.
 
 Before coming to Columbia, I obtained my M.Phil. degree in Atmospheric Environmental Science from Hong Kong University of 
-Science and Technology, supervised by [Xiaoming Shi]. At HKUST, my research was deep learning and differentiable numerical 
-solver for parameterization. Prior to HKUST, I obtained my B.Sc degree in Mathematics and Applied Mathematics from Lanzhou 
+Science and Technology, supervised by [Xiaoming Shi]. At HKUST, my research was to use differentiable numerical 
+solver and transfer learning to improve deep learning based parameterization. Prior to HKUST, I obtained my B.Sc degree in Mathematics and Applied Mathematics from Lanzhou 
 University. I was an undergraduate research assistant in Yu-Mei Huang's Group, mainly studying sparse representation and
 convolutional sparse representation for image processing.
 
