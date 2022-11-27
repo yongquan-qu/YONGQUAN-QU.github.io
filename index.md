@@ -24,6 +24,7 @@ explore search spaces of program implementations.  As an undergraduate, I did
 research with [Gene Cooperman] and helped create [DMTCP], a user-level
 distributed checkpoint/restart system.
 
+
 [Pierre Gentine]: https://gentinelab.eee.columbia.edu/people/pierre-gentine
 [GoDaddy Domain Appraisals]: https://www.godaddy.com/engineering/2019/07/26/domain-name-valuation/
 [acquisition]: http://allthingsd.com/20130819/godaddy-acquires-merchant-finder-startup-locu-for-70-million/
