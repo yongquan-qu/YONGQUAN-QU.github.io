@@ -3,6 +3,7 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
+<!--
   - author: "Jason Ansel, Marek Olszewski"
     title: "BFTree - Scaling HotStuff to Millions of Validators"
     month: "June"
@@ -249,7 +250,7 @@ pubs:
     year: "2009"
     url: "http://groups.csail.mit.edu/commit/papers/09/asplos073-olszewski.pdf"
     keywords: "Kendo"
-
+-->
   - title: "Transparent User-Level Checkpointing for the Native POSIX Thread Library for Linux"
     author: "Michael Rieker, Jason Ansel, Gene Cooperman"
     booktitle: "The International Conference on Parallel and Distributed Processing Techniques and Applications"
