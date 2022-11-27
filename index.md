@@ -4,37 +4,19 @@ layout: page
 
 # About Me
 
-<img src="/images/yongquanqu01.JPG" class="floatpic" width="300" height="300">
-My name is Yongquan QU (Francis).  I am currently a Ph.D student in the Department of
+<img src="/images/yongquanqu01.JPG" class="floatpic" width="300" height="400">
+My name is Yongquan Qu.  I am currently a first-year Ph.D. student in the Department of
 Earth and Environmental Engineering at Columbia University. My advisor is [Pierre Gentine]
 
-Before Facebook, I was at GoDaddy helping build a deep learning platform
-for predicting small business behavior and personalizing experiences across
-the company.  I also created [GoDaddy Domain Appraisals], which uses neural
-networks to predict the resale value of a domain name better than a human
-expert.  I joined GoDaddy in 2013 as part of the [acquisition] of the startup
-[Locu], which I joined in 2011 while I was simultaneously getting my Ph.D. at
-[MIT][MIT] [CSAIL].
+I'm interested in studying deep learning methods and their integration with numerical methods 
+for the simulation of physical processes in atmospheric and climate dynamics. Currently, I am starting 
+to explore data-driven low-cloud parameterization, and data assimilation for climate.
 
-I did my Ph.D. dissertation in the [Commit] group lead by  [Saman Amarasinghe].
-I started the [OpenTuner] project, an extensible framework for program
-autotuning.  I also created the [PetaBricks] programming language, a language
-that incorporates algorithmic choices to allow an integrated autotuner to
-explore search spaces of program implementations.  As an undergraduate, I did
-research with [Gene Cooperman] and helped create [DMTCP], a user-level
-distributed checkpoint/restart system.
-
+Before coming to Columbia, I obtained my M.Phil. degree in Atmospheric Environmental Science from Hong Kong University of 
+Science and Technology, supervised by [Xiaoming Shi]. At HKUST, my research was deep learning and differentiable numerical 
+solver for parameterization. Prior to HKUST, I obtained my B.Sc degree in Mathematics and Applied Mathematics from Lanzhou 
+University. I was an undergraduate research assistant in Yu-Mei Huang's Group, mainly studying sparse representation and
+convolutional sparse representation for image processing.
 
 [Pierre Gentine]: https://gentinelab.eee.columbia.edu/people/pierre-gentine
-[GoDaddy Domain Appraisals]: https://www.godaddy.com/engineering/2019/07/26/domain-name-valuation/
-[acquisition]: http://allthingsd.com/20130819/godaddy-acquires-merchant-finder-startup-locu-for-70-million/
-[CSAIL]: http://www.csail.mit.edu/
-[DMTCP]: http://dmtcp.sourceforge.net/
-[Gene Cooperman]: http://www.ccs.neu.edu/home/gene/
-[Locu]: http://locu.com/
-[MIT]: http://www.mit.edu/
-[OpenTuner]: http://opentuner.org/
-[PetaBricks]: http://projects.csail.mit.edu/petabricks/
-[Commit]: http://groups.csail.mit.edu/commit/
-[Saman Amarasinghe]: http://people.csail.mit.edu/saman/
-
+[Xiaoming Shi]: https://shixm.people.ust.hk/about/
