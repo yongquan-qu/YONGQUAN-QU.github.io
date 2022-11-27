@@ -1,4 +1,4 @@
-title: Jason Ansel
+title: Yongquan QU
 #tagline:          A short tagline
 #description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
@@ -6,16 +6,16 @@ url: https://jasonansel.com
 
 # Owner/author information
 owner:
-  name:           Jason Ansel
+  name:           Yongquan QU
   avatar:         jasonansel.jpg
 #  bio:
-  email:          jasonansel@jasonansel.com
+  email:          yq2340@columbia.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
   facebook:
-  github: jansel
-  linkedin: jansel
-  scholar: https://scholar.google.com/citations?user=jDNYtP0AAAAJ
+  github: https://github.com/YONGQUAN-QU
+  linkedin: https://www.linkedin.com/in/yongquanqu-97/
+  scholar: https://scholar.google.com/citations?hl=en&user=LnBGvRoAAAAJ
   instagram:
   lastfm:
   tumblr:
