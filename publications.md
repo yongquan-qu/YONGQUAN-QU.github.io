@@ -5,7 +5,7 @@ title: Publications
 ---
 ## Journal Publications
 
-- Qu, Y*. and X. Shi, 2022: Can a Machine-Learning-Enabled Numerical Model Help Extend Effective Forecast Range through Consistently Trained Subgrid-Scale Models? Artificial Intelligence for the Earth Systems, in press. [PDF](https://shixm.people.ust.hk/pdf/TurbJAX2022.pdf) [Code](https://github.com/YONGQUAN-QU/BVEX)
+- Qu, Y*. and X. Shi, 2022: Can a Machine-Learning-Enabled Numerical Model Help Extend Effective Forecast Range through Consistently Trained Subgrid-Scale Models? Artificial Intelligence for the Earth Systems, in press. [Early Online Release]([https://shixm.people.ust.hk/pdf/TurbJAX2022.pdf](https://journals.ametsoc.org/view/journals/aies/aop/AIES-D-22-0050.1/AIES-D-22-0050.1.xml?tab_body=fulltext-display)) [Code](https://github.com/YONGQUAN-QU/BVEX)
 
 
 
