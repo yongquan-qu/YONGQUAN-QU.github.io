@@ -10,8 +10,7 @@ Earth and Environmental Engineering at Columbia University, advised by [Pierre G
 I am also affiliated with [LEAP-STC] as a graduate research assistant.
 
 I'm interested in studying deep learning methods and their integration with numerical methods 
-for the simulation of physical processes in atmospheric and climate dynamics. Currently, I am starting 
-to explore data-driven low-cloud parameterization, and data assimilation for climate.
+for the simulation of physical processes in atmospheric and climate dynamics. Currently, I am working on data-driven parameterization for low cloud turbulence, and data assimilation for climate simulation.
 
 Before coming to Columbia, I obtained my M.Phil. degree in Atmospheric Environmental Science from Hong Kong University of 
 Science and Technology, supervised by [Xiaoming Shi]. At HKUST, my research was to use differentiable numerical 
