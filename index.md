@@ -5,9 +5,9 @@ layout: page
 # About Me
 
 <img src="/images/yongquanqu01.jpg" class="floatpic" width="300" height="400">
-My name is Yongquan Qu.  I am currently a first-year Ph.D. student in the Department of
+My name is Yongquan Qu.  I am currently a second-year Ph.D. student in the Department of
 Earth and Environmental Engineering at Columbia University, advised by [Pierre Gentine]. 
-I am also affiliated with [LEAP-STC] as a graduate research assistant.
+I am also a graduate research assistant at [LEAP-STC], and an affiliate of [M2LInES] .
 
 I'm interested in studying deep learning methods and their integration with numerical methods 
 for the simulation of physical processes in atmospheric and climate dynamics. Currently, I am working on data-driven parameterization for low cloud turbulence, and data assimilation for climate simulation.
@@ -21,3 +21,4 @@ convolutional sparse representation for image processing.
 [Pierre Gentine]: https://gentinelab.eee.columbia.edu/people/pierre-gentine
 [Xiaoming Shi]: https://shixm.people.ust.hk/about/
 [LEAP-STC]: https://leap.columbia.edu
+[M2LInES]: https://m2lines.github.io
