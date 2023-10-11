@@ -5,7 +5,7 @@ layout: page
 # About Me
 
 <img src="/images/yongquanqu01.jpg" class="floatpic" width="300" height="400">
-My name is Yongquan Qu.  I am currently a second-year Ph.D. student in the Department of
+My name is Yongquan Qu.  I am currently a second-year Ph.D. candidate in the Department of
 Earth and Environmental Engineering at Columbia University, advised by [Pierre Gentine]. 
 I am also a graduate research assistant at [LEAP-STC], and an affiliate of [M2LInES] .
 
