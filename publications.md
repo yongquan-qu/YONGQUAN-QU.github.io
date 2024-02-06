@@ -5,7 +5,7 @@ title: Publications
 ---
 ## Publications
 
-- ChaosBench: A Multi-Channel, Physics-Based Benchmark for Subseasonal-to-Seasonal Climate Prediction
+- ChaosBench: A Multi-Channel, Physics-Based Benchmark for Subseasonal-to-Seasonal Climate Prediction          
   Juan Nathaniel, <ins>Yongquan Qu</ins>, Tung Nguyen, Sungduk Yu, Julius Busecke, Aditya Grover, Pierre Gentine              
   *arXiv preprint arXiv:2402.00712*  [Homepage](https://leap-stc.github.io/ChaosBench/README.html) 
   
