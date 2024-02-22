@@ -5,6 +5,14 @@ title: Publications
 ---
 ## Publications
 
+- Joint Parameter and Parameterization Inference with Uncertainty Quantification through Differentiable Programming         
+  <ins>Yongquan Qu</ins>, Mohamed Aziz Bhouri, Pierre Gentine                    
+  *Submitted to ICLR 2024 Workshop on AI4DifferentialEquations In Science*     
+
+- A Machine-Assisted Physical Closure for Suspended Sediments in Vegetated Turbulent Channel Flows    
+  Shuolin Li, <ins>Yongquan Qu</ins>, Tian Zheng, Pierre Gentine               
+  *Submitted to Geophysical Research Letters* 
+  
 - ChaosBench: A Multi-Channel, Physics-Based Benchmark for Subseasonal-to-Seasonal Climate Prediction          
   Juan Nathaniel, <ins>Yongquan Qu</ins>, Tung Nguyen, Sungduk Yu, Julius Busecke, Aditya Grover, Pierre Gentine              
   *arXiv preprint arXiv:2402.00712*  [Homepage](https://leap-stc.github.io/ChaosBench/README.html) 
