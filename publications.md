@@ -7,7 +7,7 @@ title: Publications
 
 - Joint Parameter and Parameterization Inference with Uncertainty Quantification through Differentiable Programming         
   <ins>Yongquan Qu</ins>, Mohamed Aziz Bhouri, Pierre Gentine, (2024),                    
-  *ICLR 2024 Workshop on AI4DifferentialEquations In Science* [Openreview](https://openreview.net/pdf?id=dIaE8oObHe](https://openreview.net/forum?id=dIaE8oObHe&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FWorkshop%2FAI4DiffEqtnsInSci%2FAuthors%23your-submissions)    
+  *ICLR 2024 Workshop on AI4DifferentialEquations In Science* [Openreview](https://openreview.net/forum?id=dIaE8oObHe&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FWorkshop%2FAI4DiffEqtnsInSci%2FAuthors%23your-submissions)    
 
 - Deep Generative Data Assimilation in Multimodal Setting       
   <ins>Yongquan Qu</ins>\*, Juan Nathaniel\*, Shuolin Li, Pierre Gentine, (2024),       
