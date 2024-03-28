@@ -19,7 +19,7 @@ Before coming to Columbia, I obtained my M.Phil. degree in Atmospheric Environme
 
 ## News
 
-- **(Mar. 2024)** Our proposed ICML2024 workshop [Machine Learning for Earth System Modeling: Accelerating Pathways to Impact](https://leap-stc.github.io/ml4esm-workshop/) is accepted.
+- **(Mar. 2024)** Our proposed ICML2024 workshop [Machine Learning for Earth System Modeling: Accelerating Pathways to Impact](https://leap-stc.github.io/ml4esm-workshop/) has been accepted to be held at the conference.
 - **(Mar. 2024)** Our paper on *Joint Parameter and Parameterization Inference with Uncertainty Quantification through Differentiable Programming* is accepted at ICLR 2024 Workshop on AI4DifferentialEquations in Science.
 - **(Feb. 2024)** I will be co-mentoring 2024 [LEAP Summer REU Program](https://leap.columbia.edu/education/2024-leap-summer-reu-program-info/) (for undergraduate students) and [Summer Momentum Fellowship program](https://leap.columbia.edu/education/2024-leap-momfell-info/) (for Ph.D. students) at Columbia. Apply by March 10 and join us for cool climate data science research!
 - - **(Feb. 2024)** ChaosBench -- our benchmark dataset for S2S prediction --  is available now. Please check our [Homepage](https://leap-stc.github.io/ChaosBench), [Preprint](https://arxiv.org/abs/2402.00712) and [HuggingFace](https://huggingface.co/datasets/LEAP/ChaosBench)!
