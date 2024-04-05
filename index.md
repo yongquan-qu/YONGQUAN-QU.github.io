@@ -19,6 +19,8 @@ Before coming to Columbia, I obtained my M.Phil. degree in Atmospheric Environme
 
 ## News
 
+- **(Apr. 2024)** Our paper on *Deep Generative Data Assimilation in Multimodal Setting* is accepted at CVPR 2024 Workshop EarthVision 2024.      
+            
 - **(Mar. 2024)** Our proposed ICML 2024 workshop [Machine Learning for Earth System Modeling: Accelerating Pathways to Impact](https://leap-stc.github.io/ml4esm-workshop/) has been accepted to be held at the conference.
       
 - **(Mar. 2024)** Our paper on *Joint Parameter and Parameterization Inference with Uncertainty Quantification through Differentiable Programming* is accepted at ICLR 2024 Workshop on AI4DifferentialEquations in Science.
