@@ -5,13 +5,13 @@ title: Publications
 ---
 ## Publications
 
+- Deep Generative Data Assimilation in Multimodal Setting       
+  <ins>Yongquan Qu</ins>\*, Juan Nathaniel\*, Shuolin Li, Pierre Gentine, (2024),       
+  *CVPR 2024 Workshop EarthVision 2024* **\*Equal Contribution**
+  
 - Joint Parameter and Parameterization Inference with Uncertainty Quantification through Differentiable Programming         
   <ins>Yongquan Qu</ins>, Mohamed Aziz Bhouri, Pierre Gentine, (2024),                    
   *ICLR 2024 Workshop on AI4DifferentialEquations In Science* [Openreview](https://openreview.net/forum?id=dIaE8oObHe)
-
-- Deep Generative Data Assimilation in Multimodal Setting       
-  <ins>Yongquan Qu</ins>\*, Juan Nathaniel\*, Shuolin Li, Pierre Gentine, (2024),       
-  *Submitted to CVPR 2024 Workshop EarthVision 2024* **\*Equal Contribution**         
 
 - A Machine-Assisted Physical Closure for Suspended Sediments in Vegetated Turbulent Channel Flows    
   Shuolin Li, <ins>Yongquan Qu</ins>, Tian Zheng, Pierre Gentine, (2024),                   
