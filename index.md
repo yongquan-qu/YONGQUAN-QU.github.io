@@ -19,6 +19,8 @@ Before coming to Columbia, I obtained my M.Phil. degree in Atmospheric Environme
 
 ## News
 
+- **(Jul. 2024)** I will be joining [Pasteur Labs](https://pasteurlabs.ai) as a Simulation Intelligence Intern conducting research and development in Scientific Machine Learning!     
+
 - **(Apr. 2024)** Our paper on *Deep Generative Data Assimilation in Multimodal Setting* is accepted at CVPR 2024 Workshop EarthVision 2024.      
             
 - **(Mar. 2024)** Our proposed ICML 2024 workshop [Machine Learning for Earth System Modeling: Accelerating Pathways to Impact](https://leap-stc.github.io/ml4esm-workshop/) has been accepted to be held at the conference.
