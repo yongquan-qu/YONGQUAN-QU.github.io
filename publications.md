@@ -6,7 +6,7 @@ title: Publications
 ## Publications
 
 - Machine-Assisted Physical Closure for Coarse Suspended Sediments in Vegetated Turbulent Channel Flows       
-  Shuolin Li, <ins>Yongquan Qu</ins>, Tian Zheng, Pierre Gentine, (2024)
+  Shuolin Li, <ins>Yongquan Qu</ins>, Tian Zheng, Pierre Gentine, (2024)        
   *Geophysical Research Letters*, in press    
 
 - Deep Generative Data Assimilation in Multimodal Setting       
