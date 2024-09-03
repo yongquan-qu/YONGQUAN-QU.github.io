@@ -11,7 +11,7 @@ title: Publications
 
 - Deep Generative Data Assimilation in Multimodal Setting       
   <ins>Yongquan Qu</ins>\*, Juan Nathaniel\*, Shuolin Li, Pierre Gentine, (2024),       
-  *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2024, pp. 449-459 **(CVPR EarthVision 2024 Workshop Best Student Paper Award)*** **\*Equal Contribution** [pdf]([https://arxiv.org/abs/2404.06665](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/papers/Qu_Deep_Generative_Data_Assimilation_in_Multimodal_Setting_CVPRW_2024_paper.pdf)) [Code](https://github.com/yongquan-qu/SLAMS)
+  *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2024, pp. 449-459 **(🎉CVPR EarthVision 2024 Workshop Best Student Paper Award 🎉)*** **\*Equal Contribution** [pdf]([https://arxiv.org/abs/2404.06665](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/papers/Qu_Deep_Generative_Data_Assimilation_in_Multimodal_Setting_CVPRW_2024_paper.pdf)) [Code](https://github.com/yongquan-qu/SLAMS)
   
 - Joint Parameter and Parameterization Inference with Uncertainty Quantification through Differentiable Programming         
   <ins>Yongquan Qu</ins>, Mohamed Aziz Bhouri, Pierre Gentine, (2024),                    
