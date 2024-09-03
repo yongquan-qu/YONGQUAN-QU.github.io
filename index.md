@@ -5,10 +5,10 @@ layout: page
 ## Yongquan Qu
 
 <img src="/images/yongquanqu01.jpg" class="floatpic" width="300" height="400">
-I am a second-year Ph.D. candidate in the Department of
+I am a third-year Ph.D. candidate in the Department of
 Earth and Environmental Engineering at Columbia University, advised by [Pierre Gentine]. I am a graduate research assistant of the [NSF Science and Technology Center “Learning the Earth with Artificial Intelligence and Physics” (LEAP)]. I am also affiliated with the [“Multiscale Machine Learning In Coupled Earth System Modeling” (M2LInES) project].         
 
-I'm generally interested in machine learning for their integration with dynamical systems and numerical methods, aimed specifically at advancing the simulation of physical processes within atmospheric and climate dynamics. Currently, my primary research delves into atmospheric boundary layer turbulence and data assimilation, using scientific machine learning and differentiable programming.
+I'm generally interested in machine learning for their integration with dynamical systems and numerical methods, aimed specifically at advancing the simulation of physical processes within atmospheric and climate dynamics. Currently, my primary research delves into atmospheric boundary layer turbulence and data assimilation, using scientific machine learning, generative models, and differentiable programming.
 
 Before coming to Columbia, I obtained my M.Phil. degree in Atmospheric Environmental Science from Hong Kong University of Science and Technology, supervised by [Xiaoming Shi]. At HKUST, my research was to use differentiable programming and transfer learning to improve hybrid ML-physics models. Prior to HKUST, I obtained my B.Sc degree in Mathematics and Applied Mathematics from Lanzhou University. I was an undergraduate research assistant in Yu-Mei Huang's Group, mainly studying compressed sensing: sparse representation and convolutional sparse representation.       
 
