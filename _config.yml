@@ -8,7 +8,7 @@ url: https://yongquan-qu.github.io
 owner:
   name:           Yongquan QU
   avatar:         yongquanqu.jpg
-#  bio:
+  bio:            Ph.D. candidate at Columbia University developing machine learning, probabilistic inference, and forecasting methods for high-dimensional nonlinear dynamical systems.
   email:          yq2340@columbia.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
@@ -66,5 +66,3 @@ kramdown:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
-
-

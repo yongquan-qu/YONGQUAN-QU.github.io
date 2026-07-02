@@ -5,12 +5,13 @@ layout: page
 ## Yongquan Qu
 
 <img src="/images/yongquanqu01.jpg" class="floatpic" width="300" height="400">
-I am a third-year Ph.D. candidate in the Department of
-Earth and Environmental Engineering at Columbia University, advised by [Pierre Gentine]. I am a graduate research assistant of the [NSF Science and Technology Center “Learning the Earth with Artificial Intelligence and Physics” (LEAP)]. I am also affiliated with the [“Multiscale Machine Learning In Coupled Earth System Modeling” (M2LInES) project].         
+I am a Ph.D. candidate in the Department of Earth and Environmental Engineering at Columbia University, advised by [Pierre Gentine]. I am a graduate research assistant at the [NSF Science and Technology Center “Learning the Earth with Artificial Intelligence and Physics” (LEAP)] and am also affiliated with the [“Multiscale Machine Learning In Coupled Earth System Modeling” (M2LInES) project].
 
-I'm generally interested in machine learning for their integration with dynamical systems and numerical methods, aimed specifically at advancing the simulation of physical processes within atmospheric and climate dynamics. Currently, my primary research delves into atmospheric boundary layer turbulence and data assimilation, using scientific machine learning, generative models, and differentiable programming.
+My research develops machine learning and probabilistic inference methods for high-dimensional nonlinear dynamical systems. I am interested in representation learning, latent-state modeling, state-space inference, and probabilistic forecasting from noisy, sparse, and partially observed data.
 
-Before coming to Columbia, I obtained my M.Phil. degree in Atmospheric Environmental Science from Hong Kong University of Science and Technology, supervised by [Xiaoming Shi]. At HKUST, my research was to use differentiable programming and transfer learning to improve hybrid ML-physics models. Prior to HKUST, I obtained my B.Sc degree in Mathematics and Applied Mathematics from Lanzhou University. I was an undergraduate research assistant in Yu-Mei Huang's Group, mainly studying compressed sensing: sparse representation and convolutional sparse representation.       
+Methodologically, I develop ML models and work with differentiable programming, Bayesian filtering and smoothing, optimal transport, and generative models to learn dynamics and uncertainty in complex spatiotemporal systems. Much of my applied work has been motivated by weather, climate, and atmospheric turbulence, where physical constraints and numerical solvers provide useful inductive biases for robust forecasting.
+
+Before coming to Columbia, I obtained my M.Phil. degree in Atmospheric Environmental Science from Hong Kong University of Science and Technology, supervised by [Xiaoming Shi]. At HKUST, I worked on differentiable programming and transfer learning for hybrid ML-physics models. Prior to HKUST, I obtained my B.Sc. degree in Mathematics and Applied Mathematics from Lanzhou University, where I worked on compressed sensing, sparse representation, and convolutional sparse representation as an undergraduate research assistant in Yu-Mei Huang's group.
 
 [Pierre Gentine]: https://gentinelab.eee.columbia.edu/people/pierre-gentine
 [Xiaoming Shi]: https://shixm.people.ust.hk/about/
@@ -19,14 +20,22 @@ Before coming to Columbia, I obtained my M.Phil. degree in Atmospheric Environme
 
 ## News
 
-- **(Jul. 2024)** I will be joining [Pasteur Labs](https://pasteurlabs.ai) as a Simulation Intelligence Intern conducting research and development in Scientific Machine Learning!     
+- **(Jan. 2026)** Our paper *Strictly Constrained Generative Modeling via Split Augmented Langevin Sampling* was accepted to ICLR 2026. See you in Rio de Janeiro!
 
-- **(Apr. 2024)** Our paper on *Deep Generative Data Assimilation in Multimodal Setting* is accepted at CVPR 2024 Workshop EarthVision 2024.      
+- **(2026)** Our paper *Physically consistent global atmospheric data assimilation with machine learning in latent space* was published in *Science Advances*. [paper](https://doi.org/10.1126/sciadv.aea4248)
+
+- **(2026)** Our paper *LEX v1.6.0: a new large-eddy simulation model in JAX with GPU acceleration and automatic differentiation* was published in *Geoscientific Model Development*. [paper](https://doi.org/10.5194/gmd-19-1103-2026)
+
+- **(Oct. 2025)** Our preprint on *Incorporating Multivariate Consistency in ML-Based Weather Forecasting with Latent-space Constraints* is available on [arXiv](https://arxiv.org/abs/2510.04006).
+
+- **(Aug. 2025)** Our preprint *PnP-DA: Towards Principled Plug-and-Play Integration of Variational Data Assimilation and Generative Models* is available on [arXiv](https://arxiv.org/abs/2508.00325).
+
+- **(Dec. 2024)** Our paper *ChaosBench: A Multi-Channel, Physics-Based Benchmark for Subseasonal-to-Seasonal Climate Prediction* appeared in NeurIPS 2024.
+
+- **(Jul. 2024)** I joined [Pasteur Labs](https://pasteurlabs.ai) as a Simulation Intelligence Intern, working on research and development in scientific machine learning.
+
+- **(Apr. 2024)** Our paper *Deep Generative Data Assimilation in Multimodal Setting* was accepted at the CVPR 2024 EarthVision Workshop and received the Best Student Paper Award.
             
-- **(Mar. 2024)** Our proposed ICML 2024 workshop [Machine Learning for Earth System Modeling: Accelerating Pathways to Impact](https://leap-stc.github.io/ml4esm-workshop/) has been accepted to be held at the conference.
-      
-- **(Mar. 2024)** Our paper on *Joint Parameter and Parameterization Inference with Uncertainty Quantification through Differentiable Programming* is accepted at ICLR 2024 Workshop on AI4DifferentialEquations in Science.
-      
-- **(Feb. 2024)** I will be co-mentoring 2024 [LEAP Summer REU Program](https://leap.columbia.edu/education/2024-leap-summer-reu-program-info/) (for undergraduate students) and [Summer Momentum Fellowship program](https://leap.columbia.edu/education/2024-leap-momfell-info/) (for Ph.D. students) at Columbia. Apply by March 10 and join us for cool climate data science research!
-      
-- **(Feb. 2024)** ChaosBench -- our benchmark dataset for S2S prediction --  is available now. Please check our [Homepage](https://leap-stc.github.io/ChaosBench), [Preprint](https://arxiv.org/abs/2402.00712) and [HuggingFace](https://huggingface.co/datasets/LEAP/ChaosBench)!
+- **(Mar. 2024)** Our proposed ICML 2024 workshop [Machine Learning for Earth System Modeling: Accelerating Pathways to Impact](https://leap-stc.github.io/ml4esm-workshop/) was accepted.
+
+- **(Mar. 2024)** Our paper *Joint Parameter and Parameterization Inference with Uncertainty Quantification through Differentiable Programming* was accepted at the ICLR 2024 Workshop on AI4DifferentialEquations in Science.
