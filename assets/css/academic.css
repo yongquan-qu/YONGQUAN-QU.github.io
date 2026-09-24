@@ -156,20 +156,6 @@ h1 {
   object-position:50% 56%;
   filter:saturate(.7)
 }
-.portrait figcaption {
-  background:#e9ece4;
-  padding:17px 19px;
-  display:flex;
-  flex-direction:column;
-  font-size:10px;
-  line-height:1.9;
-  color:var(--muted)
-}
-.portrait figcaption strong {
-  font-size:11px;
-  color:var(--green);
-  font-weight:500
-}
 .affiliations {
   display:flex;
   align-items:center;
@@ -524,21 +510,13 @@ h2 {
     max-width:none
   }
   .portrait {
+    width:220px;
     max-width:100%;
-    display:grid;
-    grid-template-columns:145px 1fr;
     padding:0 10px 10px 0
   }
   .portrait img {
-    height:165px;
+    height:250px;
     object-position:50% 53%
-  }
-  .portrait figcaption {
-    justify-content:center;
-    padding:18px
-  }
-  .portrait figcaption strong {
-    font-size:12px
   }
   .affiliations {
     flex-wrap:wrap;

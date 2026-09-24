@@ -9,7 +9,7 @@ layout: academic
 <p class="hero-description">I am interested in machine learning and probabilistic inference for complex dynamical systems, with applications in weather and climate.</p>
 <div class="social-links"><a class="button" href="mailto:yq2340@columbia.edu">Get in touch <span aria-hidden="true">↗</span></a><a href="https://scholar.google.com/citations?hl=en&amp;user=LnBGvRoAAAAJ">Scholar ↗</a><a href="https://www.linkedin.com/in/yongquanqu-97/">LinkedIn ↗</a></div>
 </div>
-<figure class="portrait"><img src="/images/yongquanqu01.jpg" alt="Yongquan Qu presenting research at a lectern" width="954" height="1690" fetchpriority="high"><figcaption><span>Research at the intersection</span><strong>Machine learning &amp; Earth systems</strong></figcaption></figure>
+<figure class="portrait"><img src="/images/yongquanqu01.jpg" alt="Yongquan Qu presenting research at a lectern" width="954" height="1690" fetchpriority="high"></figure>
 </section>
 <div class="affiliations"><span class="eyebrow">Currently at</span><span>Columbia University</span><span>NYU Courant</span></div>
 
