@@ -1,9 +1,26 @@
 ---
-layout: page
+layout: academic
 permalink: /publications/index.html
 title: Publications
 ---
-## Publications
+<p class="eyebrow">Research / Publications</p>
+
+# Publications
+
+<div class="publication-intro">Machine learning, probabilistic inference, and the dynamics of our physical world. <a href="https://scholar.google.com/citations?hl=en&amp;user=LnBGvRoAAAAJ">Google Scholar ↗</a></div>
+
+- Structural Blindness in Latent Data Assimilation: Representation Geometry Misleads Sensor Design<br>
+  <ins>Yongquan Qu</ins>, Pierre Gentine (2026)<br>
+  *Advances in Neural Information Processing Systems (NeurIPS), 2026*. **Accepted.**
+
+- Data-driven subgrid-scale turbulence parameterization: methods for improving model efficiency<br>
+  Xingyu Zhu, <ins>Yongquan Qu</ins>, Naigeng Wu, Hualong Zhang, Xiaoming Shi (2026)<br>
+  *Machine Learning: Earth* 2 (2), 025002. [paper](https://doi.org/10.1088/3049-4753/ae6dbe)
+
+- Video Diffusion for Satellite-based High-Dynamical-Fidelity Precipitation (HiDFiP) Field Generation<br>
+  Runze Li, Yan Xia, <ins>Yongquan Qu</ins>, Dongwei Fu, Clement Guilloteau, Judy Hoffman, Stephan Mandt, Pierre Gentine, Efi Foufoula-Georgiou (2026)<br>
+  *Preprint*. [arXiv](https://arxiv.org/abs/2608.21812)
+
 - Physically consistent global atmospheric data assimilation with machine learning in latent space  
   Hang Fan, Ben Fei, Pierre Gentine, Yi Xiao, Kun Chen, Yubao Liu, <ins>Yongquan Qu</ins>, Fenghua Ling, Lei Bai (2026)  
   *Science Advances* 12, eaea4248. [paper](https://doi.org/10.1126/sciadv.aea4248) [arXiv](https://arxiv.org/abs/2502.02884)

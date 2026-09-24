@@ -1,24 +1,65 @@
 ---
-layout: page
+layout: academic
 ---
+<section class="hero" aria-labelledby="intro-title">
+<div class="hero-copy">
+<p class="eyebrow"><span class="status-dot"></span> Ph.D. candidate · Columbia University</p>
+<h1 id="intro-title">Yongquan Qu<span class="name-period">.</span></h1>
+<p class="hero-statement">Dynamics, inference<br>&amp; <em>uncertainty.</em></p>
+<p class="hero-description">I am interested in machine learning and probabilistic inference for complex dynamical systems, with applications in weather and climate.</p>
+<div class="social-links"><a class="button" href="mailto:yq2340@columbia.edu">Get in touch <span aria-hidden="true">↗</span></a><a href="https://scholar.google.com/citations?hl=en&amp;user=LnBGvRoAAAAJ">Scholar ↗</a><a href="https://www.linkedin.com/in/yongquanqu-97/">LinkedIn ↗</a></div>
+</div>
+<figure class="portrait"><img src="/images/yongquanqu01.jpg" alt="Yongquan Qu presenting research at a lectern" width="954" height="1690" fetchpriority="high"><figcaption><span>Research at the intersection</span><strong>Machine learning &amp; Earth systems</strong></figcaption></figure>
+</section>
+<div class="affiliations"><span class="eyebrow">Currently at</span><span>Columbia University</span><span>NYU Courant</span></div>
 
-## Yongquan Qu
+<section class="section-grid" id="about">
+<div class="section-heading"><p class="eyebrow">01 / About</p><h2>Making sense of<br>complex systems.</h2></div>
+<div class="prose" markdown="1">
+I am a Ph.D. candidate at Columbia University, advised by Professor [Pierre Gentine](https://gentinelab.eee.columbia.edu/people/pierre-gentine). I'm currently visiting NYU Courant as a research affiliate, working with Professor [Laure Zanna](https://zanna-researchteam.github.io/author/laure-zanna/). I am also a graduate research assistant at [LEAP](https://leap.columbia.edu) and affiliated with the [M2LInES project](https://m2lines.github.io).
 
-<img src="/images/yongquanqu01.jpg" class="floatpic" width="300" height="400">
-I am a Ph.D. candidate in the Department of Earth and Environmental Engineering at Columbia University, advised by [Pierre Gentine]. I am a graduate research assistant at the [NSF Science and Technology Center “Learning the Earth with Artificial Intelligence and Physics” (LEAP)] and am also affiliated with the [“Multiscale Machine Learning In Coupled Earth System Modeling” (M2LInES) project].
+I am interested in learning dynamical systems and inferring hidden states from sparse, noisy observations. My work combines machine learning, probabilistic inference, and physical modeling for physical systems, with applications to weather and climate prediction.
 
-My research develops machine learning and probabilistic inference methods for high-dimensional nonlinear dynamical systems. I am interested in representation learning, latent-state modeling, state-space inference, and probabilistic forecasting from noisy, sparse, and partially observed data.
+<div class="internship-experience">
+<p class="eyebrow">Internship experience</p>
+<h3><a href="https://pasteurlabs.ai">Pasteur Labs ↗</a></h3>
+<p class="experience-role">Simulation Intelligence Intern / Resident</p>
+<p>I worked on scientific machine learning research and development, first as an intern and later as a resident.</p>
+</div>
 
-Methodologically, I develop ML models and work with differentiable programming, Bayesian filtering and smoothing, optimal transport, and generative models to learn dynamics and uncertainty in complex spatiotemporal systems. Much of my applied work has been motivated by weather, climate, and atmospheric turbulence, where physical constraints and numerical solvers provide useful inductive biases for robust forecasting.
+<details class="background"><summary>Previously · HKUST &amp; Lanzhou University <span aria-hidden="true">+</span></summary>
+<p>Before coming to Columbia, I obtained my M.Phil. in Atmospheric Environmental Science at HKUST, supervised by <a href="https://shixm.people.ust.hk/about/">Xiaoming Shi</a>, working on differentiable programming and transfer learning for hybrid ML-physics models. I received my B.Sc. in Mathematics and Applied Mathematics from Lanzhou University, where I worked on compressed sensing and sparse representation in Yu-Mei Huang’s group.</p>
+</details>
+</div>
+</section>
 
-Before coming to Columbia, I obtained my M.Phil. degree in Atmospheric Environmental Science from Hong Kong University of Science and Technology, supervised by [Xiaoming Shi]. At HKUST, I worked on differentiable programming and transfer learning for hybrid ML-physics models. Prior to HKUST, I obtained my B.Sc. degree in Mathematics and Applied Mathematics from Lanzhou University, where I worked on compressed sensing, sparse representation, and convolutional sparse representation as an undergraduate research assistant in Yu-Mei Huang's group.
+<section class="research-section" aria-labelledby="research-title">
+<div class="section-top"><div><p class="eyebrow">02 / Research interests</p><h2 id="research-title">Questions I’m interested in.</h2></div></div>
+<div class="research-grid">
+<article><span class="research-number">01 —</span><h3>Learning dynamical systems</h3><p>Learning complex dynamical systems through representation learning and generative modeling.</p><span class="topic">Representations · Generative models · State-space models</span></article>
+<article><span class="research-number">02 —</span><h3>Inference &amp; uncertainty</h3><p>Inferring hidden states and uncertainty from sparse observations.</p><span class="topic">Bayesian inference · Generative models</span></article>
+<article><span class="research-number">03 —</span><h3>Scientific machine learning</h3><p>Combining machine learning and physics for weather and climate.</p><span class="topic">Differentiable programming · Forecasting</span></article>
+</div>
+</section>
 
-[Pierre Gentine]: https://gentinelab.eee.columbia.edu/people/pierre-gentine
-[Xiaoming Shi]: https://shixm.people.ust.hk/about/
-[NSF Science and Technology Center “Learning the Earth with Artificial Intelligence and Physics” (LEAP)]: https://leap.columbia.edu
-[“Multiscale Machine Learning In Coupled Earth System Modeling” (M2LInES) project]: https://m2lines.github.io
+<section class="selected-work" aria-labelledby="work-title">
+<div class="section-top"><div><p class="eyebrow">03 / Selected work</p><h2 id="work-title">Recent research.</h2></div><a class="text-link" href="/publications/">All publications <span aria-hidden="true">↗</span></a></div>
+<article class="paper-row"><span class="paper-venue">NeurIPS <span>2026 · Accepted</span></span><div><h3>Structural Blindness in Latent Data Assimilation: Representation Geometry Misleads Sensor Design</h3><p>Yongquan Qu, Pierre Gentine</p></div></article>
+<a class="paper-row" href="https://arxiv.org/abs/2608.21812"><span class="paper-venue">Preprint <span>2026</span></span><div><h3>Video Diffusion for Satellite-based High-Dynamical-Fidelity Precipitation (HiDFiP) Field Generation</h3><p>Runze Li, Yan Xia, Yongquan Qu, Dongwei Fu, Clement Guilloteau, Judy Hoffman, Stephan Mandt, Pierre Gentine, Efi Foufoula-Georgiou</p></div><span aria-hidden="true">↗</span></a>
+<a class="paper-row" href="https://arxiv.org/abs/2505.18017"><span class="paper-venue">ICLR <span>2026</span></span><div><h3>Strictly Constrained Generative Modeling via Split Augmented Langevin Sampling</h3><p>Matthieu Blanke, Yongquan Qu, Sara Shamekh, Pierre Gentine</p></div><span aria-hidden="true">↗</span></a>
+<a class="paper-row" href="https://doi.org/10.1126/sciadv.aea4248"><span class="paper-venue">Science Advances <span>2026</span></span><div><h3>Physically consistent global atmospheric data assimilation with machine learning in latent space</h3><p>Hang Fan, Ben Fei, Pierre Gentine, Yi Xiao, Kun Chen, Yubao Liu, Yongquan Qu, Fenghua Ling, Lei Bai</p></div><span aria-hidden="true">↗</span></a>
+</section>
 
-## News
+<section class="section-grid news-section">
+<div class="section-heading"><p class="eyebrow">04 / Updates</p><h2>Notes &amp; news.</h2></div>
+<div class="news-list" markdown="1">
+
+- **(Sep. 2026)** Our paper *Structural Blindness in Latent Data Assimilation: Representation Geometry Misleads Sensor Design* was accepted to NeurIPS 2026.
+
+- **(2026)** Our paper *Data-driven subgrid-scale turbulence parameterization: methods for improving model efficiency* was published in *Machine Learning: Earth*. [paper](https://doi.org/10.1088/3049-4753/ae6dbe)
+
+- **(Aug. 2026)** Our preprint *Video Diffusion for Satellite-based High-Dynamical-Fidelity Precipitation (HiDFiP) Field Generation* is available on [arXiv](https://arxiv.org/abs/2608.21812).
+
 
 - **(Jan. 2026)** Our paper *Strictly Constrained Generative Modeling via Split Augmented Langevin Sampling* was accepted to ICLR 2026. See you in Rio de Janeiro!
 
@@ -39,3 +80,7 @@ Before coming to Columbia, I obtained my M.Phil. degree in Atmospheric Environme
 - **(Mar. 2024)** Our proposed ICML 2024 workshop [Machine Learning for Earth System Modeling: Accelerating Pathways to Impact](https://leap-stc.github.io/ml4esm-workshop/) was accepted.
 
 - **(Mar. 2024)** Our paper *Joint Parameter and Parameterization Inference with Uncertainty Quantification through Differentiable Programming* was accepted at the ICLR 2024 Workshop on AI4DifferentialEquations in Science.
+
+</div>
+</section>
+<section class="contact-strip"><div><p class="eyebrow">Let’s connect</p><h2>Interested in similar questions?</h2></div><a class="button" href="mailto:yq2340@columbia.edu">Get in touch <span aria-hidden="true">↗</span></a></section>

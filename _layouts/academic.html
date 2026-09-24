@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page.title %}{{ page.title }} · {% endif %}Yongquan Qu</title>
+<meta name="description" content="{{ site.owner.bio | escape }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<link rel="icon" href="{{ '/favicon.png' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header shell">
+<a class="wordmark" href="{{ '/' | relative_url }}">YQ<span>.</span></a>
+<nav aria-label="Main navigation">
+<a href="{{ '/' | relative_url }}" {% if page.url == '/' %}aria-current="page"{% endif %}>About</a>
+<a href="{{ '/publications/' | relative_url }}" {% if page.title == 'Publications' %}aria-current="page"{% endif %}>Publications</a>
+<a href="mailto:{{ site.owner.email }}">Contact <span aria-hidden="true">↗</span></a>
+</nav>
+</header>
+<main id="main" class="shell {% if page.title == 'Publications' %}publication-page{% endif %}">{{ content }}</main>
+<footer class="site-footer shell"><span>© {{ site.time | date: '%Y' }} Yongquan Qu</span><span>Columbia University · New York</span></footer>
+</body>
+</html>
