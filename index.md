@@ -14,11 +14,9 @@ layout: academic
 <div class="affiliations"><span class="eyebrow">Currently at</span><span>Columbia University</span><span>NYU Courant</span></div>
 
 <section class="section-grid" id="about">
-<div class="section-heading"><p class="eyebrow">01 / About</p><h2>Making sense of<br>complex systems.</h2></div>
+<div class="section-heading"><p class="eyebrow">01 / About</p><h2>About me.</h2></div>
 <div class="prose" markdown="1">
 I am a Ph.D. candidate at Columbia University, advised by Professor [Pierre Gentine](https://gentinelab.eee.columbia.edu/people/pierre-gentine). I'm currently visiting NYU Courant as a research affiliate, working with Professor [Laure Zanna](https://zanna-researchteam.github.io/author/laure-zanna/). I am also a graduate research assistant at [LEAP](https://leap.columbia.edu) and affiliated with the [M2LInES project](https://m2lines.github.io).
-
-I am interested in learning dynamical systems and inferring hidden states from sparse, noisy observations. My work combines machine learning, probabilistic inference, and physical modeling for physical systems, with applications to weather and climate prediction.
 
 <div class="internship-experience">
 <p class="eyebrow">Internship experience</p>
