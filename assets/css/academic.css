@@ -108,7 +108,7 @@ h1 {
   font-weight:normal
 }
 .hero-description {
-  font-size:15px;
+  font-size: 17px;
   line-height:1.9;
   color:var(--muted);
   max-width:485px;
@@ -203,7 +203,7 @@ h2 {
   margin-bottom:15px
 }
 .prose {
-  font-size:14px;
+  font-size: 16px;
   color:#505c55;
   line-height:1.95
 }
@@ -220,7 +220,7 @@ h2 {
   border-top:1px solid var(--line);
   margin-top:26px;
   padding-top:18px;
-  font-size:12px
+  font-size: 14px
 }
 .background summary {
   cursor:pointer;
@@ -272,14 +272,14 @@ h2 {
   margin:22px 0 14px
 }
 .research-grid p {
-  font-size:12px;
+  font-size: 15px;
   color:#5b675c;
   line-height:1.85;
   margin-bottom:23px
 }
 .topic {
   display:block;
-  font-size:9px;
+  font-size: 12px;
   color:var(--green)
 }
 .selected-work {
@@ -321,7 +321,7 @@ h2 {
   margin:0 0 9px
 }
 .paper-row p {
-  font-size:11px;
+  font-size: 14px;
   color:var(--muted);
   margin:0
 }
@@ -337,7 +337,7 @@ h2 {
   padding:0
 }
 .news-list li {
-  font-size:12px;
+  font-size: 15px;
   color:#505c55;
   padding:0 0 19px 19px;
   position:relative;
@@ -357,7 +357,7 @@ h2 {
   padding-bottom:0
 }
 .news-list strong {
-  font-size:11px;
+  font-size: 13px;
   color:var(--green)
 }
 .contact-strip {
@@ -431,7 +431,7 @@ h2 {
   position:relative;
   padding:27px 0 27px 55px;
   border-top:1px solid var(--line);
-  font-size:14px;
+  font-size: 16px;
   line-height:1.9
 }
 .publication-page>ul>li:before {
@@ -451,7 +451,7 @@ h2 {
   color:var(--green);
   border-bottom:1px solid #a7b6a1;
   margin-left:6px;
-  font-size:12px
+  font-size: 14px
 }
 .publication-page ins {
   text-decoration:none;
@@ -492,7 +492,7 @@ h2 {
     padding:23px 19px
   }
   .topic {
-    font-size:8px
+    font-size: 12px
   }
 
 }
@@ -580,7 +580,7 @@ h2 {
     margin-bottom:15px
   }
   .topic {
-    font-size:10px
+    font-size: 12px
   }
   .section-top {
     align-items:start
@@ -622,7 +622,7 @@ h2 {
   }
   .publication-page>ul>li {
     padding-left:34px;
-    font-size:13px
+    font-size: 16px
   }
   .publication-page li::first-line {
     font-size:17px
@@ -652,7 +652,7 @@ h2 {
 }
 .internship-experience h3 a { text-decoration: none; }
 .internship-experience .experience-role {
-  font-size: 12px;
+  font-size: 14px;
   color: var(--green);
   margin-bottom: 12px;
 }
